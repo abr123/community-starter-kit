@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+such as 13jkljflaj
+and jfkslajflas 
+and jflksajlfkd
