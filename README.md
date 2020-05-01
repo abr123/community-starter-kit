@@ -4,8 +4,8 @@ This is is a good App
 
 ## What it does
 
-  # such as feature 2
-  # and feature 3
+1.such as feature 2
+2.and feature 3
 
 ## Getting started
 
